@@ -1,6 +1,6 @@
 **Guest Addition,**
 
-** Should be already installed,**
+**Should be already installed,**
 
 `[root@rhel-92-04-vagrantbox ~]# dnf groupinstall "Development Tools" -y`
 
