@@ -1,5 +1,10 @@
 **Guest Addition,**
 
+** Should be already installed,**
+
+`[root@rhel-92-04-vagrantbox ~]# dnf groupinstall "Development Tools" -y`
+
+
 **Mount the VirtualBox Guest Additions ISO:** mount /dev/cdrom /mnt
 
 `[root@rhel-92-04-vagrantbox ~]# mount /dev/cdrom /mnt`
